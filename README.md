@@ -153,6 +153,7 @@ GitHub repo organization + reproducibility is crucial for ML projects
 
 Contributors
 Sajjad Shamoosi
-
-Group Members (Add names here)
-
+Daniel Alamanza
+Yosselin Zavala
+Zainab Khan
+Victoria Castillo
